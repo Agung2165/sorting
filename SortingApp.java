@@ -35,7 +35,7 @@ public class SortingApp {
         }
     }
 
-    // Menampilkan array
+    
     public static void displayArray(int[] arr) {
         for (int num : arr) {
             System.out.print(num + " ");
